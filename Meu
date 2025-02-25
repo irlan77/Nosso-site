@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nosso Amor</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f8f8;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: 50px auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #333;
+        }
+        .gallery {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 10px;
+            margin-top: 20px;
+        }
+        .gallery img {
+            width: 100%;
+            border-radius: 8px;
+        }
+        .quote {
+            font-style: italic;
+            color: #555;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Nosso Amor</h1>
+        <p class="quote">"O amor não se vê com os olhos, mas com o coração."</p>
+        
+        <div class="gallery">
+            <img src="foto1.jpg" alt="Foto juntos">
+            <img src="foto2.jpg" alt="Momentos especiais">
+            <img src="foto3.jpg" alt="Mais lembranças">
+        </div>
+    </div>
+</body>
+</html>
+
+
+Aqui está a estrutura inicial do seu site romântico, com um design minimalista e elegante. Você pode adicionar mais fotos e frases ou pedir ajustes no estilo. Me avise o que deseja mudar!
+
